@@ -17,7 +17,7 @@ Este proyecto tiene como objetivo predecir el comportamiento de los clientes en 
 - **Directorio notebooks/:** Contiene los notebooks organizados y ordenados por etapas del proyecto.
 - **Directorio html/:** Incluye la versión en formato HTML de los notebooks.
 - **Directorio env/:** Contiene el archivo requirements.txt con las dependencias necesarias para ejecutar el proyecto.
-- **Directorio src/** Contiene el notebook con extensión .py
+- **Directorio src/:** Contiene el notebook con extensión .py
 
 ## Ruta GitHub
 Puedes acceder al repositorio del proyecto en el siguiente enlace: https://github.com/carmenhuerta/Practica-Principal.git
